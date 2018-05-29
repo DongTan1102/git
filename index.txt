@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 fix issue53 kaldlakdasd
-=======
-12345fix issue53
->>>>>>> issue53
